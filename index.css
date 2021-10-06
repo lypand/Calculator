@@ -1,0 +1,28 @@
+body{
+    display: block; 
+    width: 25em; 
+    height: 6em;
+}
+
+#input{
+    display:grid;
+    height: 3em;
+    width: 10em;
+    border-color: blue;
+    border-style: solid;
+}
+
+#output{
+    display:grid;
+    height: 3em;
+    width: 10em;
+    border-color: green;
+    border-style: solid;
+}
+
+button{
+    background-color: yellow;
+    width: 5em;
+    height: 5em;
+    font-size: large;
+}
